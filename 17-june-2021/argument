@@ -1,0 +1,14 @@
+int main()
+{
+  while(1)
+  {
+  	data_acq(int a, int b, int c)
+  }
+}
+void data_acq(int x, int y, int z)
+{
+	....	
+}
+In this main funtion when data_acq() is called and a,b,c are its parameters of 
+data_acq function then the value of a,b,c will get copied to x,y,z in data_acq funtion after calling the funtion its all the instructions will get 
+executed, and will return to the main funtion.
