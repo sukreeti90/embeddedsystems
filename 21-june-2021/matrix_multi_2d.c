@@ -47,5 +47,41 @@ printf("\n");
 }    
 return 0;  
 }  
+/*output
 
+enter the number of row=4
+enter the number of column=3
+enter the first matrix element=
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+enter the second matrix element=
+6
+4
+3
+3
+2
+2
+1
+1
+5
+6
+7
+7
+multiply of the matrix=
+19      13      15
+10      7       10
+10      7       10
+10      7       10
+
+*/
 
