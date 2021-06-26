@@ -46,3 +46,18 @@ int main()
     printArray(arr,size);
     return 0; 
 }
+/*
+enter sizeof array10
+enter arar1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+enter rotation5
+6 7 8 9 0 1 2 3 4 5
+*/
