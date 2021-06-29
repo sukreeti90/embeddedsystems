@@ -1,4 +1,4 @@
-/*Write a program to print 1 to 0  suing recursion*/
+/*Write a program to print 1 to N  suing recursion*/
 
 #include <stdio.h>
 
