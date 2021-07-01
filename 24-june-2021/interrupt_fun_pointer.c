@@ -33,7 +33,8 @@ isr_t ivt[]=
 	{"isr0",keyboard_interrupt},
 	{"isr1", mouse_interrupt},
 	{"isr2", rtc_interrupt},
-	{"isr3",i2c_interrupt},	
+	{"isr3",i2c_interrupt},
+	{"isr4",usb_interrupt},
 };
 
 int main()
@@ -44,8 +45,3 @@ int main()
 }
 
 }
-/*
-output:
-mouse_interrupt...
-rtc_interrupt...
-*/
