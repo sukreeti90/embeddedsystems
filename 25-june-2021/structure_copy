@@ -1,0 +1,2 @@
+2.Conclude structure copy of C is shallow copy or deep copy?
+Answer :  Using assignment operators on structers results in a shallow copy.
